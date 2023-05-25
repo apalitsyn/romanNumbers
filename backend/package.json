@@ -1,0 +1,20 @@
+{
+  "name": "roman_numerals_frontend_backend",
+  "version": "1.0.0",
+  "description": "Roman Numbers API",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon app.js"
+  },
+  "author": "Anton P",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "express": "^4.18.2",
+    "mocha": "^10.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
